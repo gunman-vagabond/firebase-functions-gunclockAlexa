@@ -4,6 +4,7 @@ Gunclock Skill's backend for Alexa Skills Kit (ASK) SDK.
 Deploy to Google Cloud Functions with FireBase.
 
 ## deploy to Firebase
+
   $ firebase login
   $ mkdir gunclockAlexa
   $ cd gunclockAlexa
